@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Who is the current President of Nigeria?",
+    "options": [
+      "Atiku Abubakar",
+      "Peter Obi",
+      "Bola Ahmed Tinubu",
+      "Yemi Osinbajo"
+    ],
+    "answer": "Bola Ahmed Tinubu"
+  },
+  {
+    "question": "What is the name of Nigeria’s national digital identity system?",
+    "options": ["BVN", "NIN", "PVC", "NPC"],
+    "answer": "NIN"
+  },
+  {
+    "question": "Which Nigerian city recently launched Africa's first electric mass transit buses?",
+    "options": ["Kano", "Lagos", "Abuja", "Port Harcourt"],
+    "answer": "Lagos"
+  },
+  {
+    "question": "Who is the current Governor of the Central Bank of Nigeria (CBN)?",
+    "options": [
+      "Yemi Cardoso",
+      "Godwin Emefiele",
+      "Sanusi Lamido",
+      "Zainab Ahmed"
+    ],
+    "answer": "Yemi Cardoso"
+  },
+  {
+    "question": "Which agency regulates elections in Nigeria?",
+    "options": [
+      "INEC",
+      "EFCC",
+      "NIMC",
+      "NCC"
+    ],
+    "answer": "INEC"
+  },
+  {
+    "question": "What is the current minimum wage in Nigeria as of 2025 (proposed by the government)?",
+    "options": [
+      "₦30,000",
+      "₦62,000",
+      "₦45,000",
+      "₦100,000"
+    ],
+    "answer": "₦62,000"
+  },
+  {
+    "question": "Which Nigerian tech startup became a unicorn after hitting over $1 billion valuation?",
+    "options": ["Kuda", "Flutterwave", "Opay", "Paystack"],
+    "answer": "Flutterwave"
+  },
+  {
+    "question": "Which Nigerian was recently appointed as a United Nations Deputy Secretary-General?",
+    "options": [
+      "Amina J. Mohammed",
+      "Ngozi Okonjo-Iweala",
+      "Hadiza Bala Usman",
+      "Zainab Shamsuna Ahmed"
+    ],
+    "answer": "Amina J. Mohammed"
+  },
+  {
+    "question": "Who is the current Senate President of Nigeria?",
+    "options": [
+      "Godswill Akpabio",
+      "Ahmed Lawan",
+      "Orji Uzor Kalu",
+      "Femi Gbajabiamila"
+    ],
+    "answer": "Godswill Akpabio"
+  },
+  {
+    "question": "Which Nigerian university was recently ranked highest in sub-Saharan Africa?",
+    "options": [
+      "University of Lagos",
+      "Covenant University",
+      "University of Ibadan",
+      "Ahmadu Bello University"
+    ],
+    "answer": "Covenant University"
+  },
+  {
+    "question": "What is the name of the new national carrier Nigeria is trying to revive?",
+    "options": [
+      "Air Nigeria",
+      "Nigeria Eagle",
+      "Nigeria Air",
+      "NigerJet"
+    ],
+    "answer": "Nigeria Air"
+  },
+  {
+    "question": "Who won the 2023 AFCON qualifiers highest goal scorer for Nigeria?",
+    "options": [
+      "Kelechi Iheanacho",
+      "Samuel Chukwueze",
+      "Victor Osimhen",
+      "Taiwo Awoniyi"
+    ],
+    "answer": "Victor Osimhen"
+  },
+  {
+    "question": "Which state is constructing the longest flyover bridge in Nigeria as of 2025?",
+    "options": [
+      "Lagos",
+      "Akwa Ibom",
+      "Kano",
+      "Rivers"
+    ],
+    "answer": "Akwa Ibom"
+  },
+  {
+    "question": "What is Nigeria’s main export product?",
+    "options": ["Cocoa", "Oil", "Gold", "Palm oil"],
+    "answer": "Oil"
+  },
+  {
+    "question": "Who is the current Inspector-General of Police?",
+    "options": [
+      "Kayode Egbetokun",
+      "Usman Alkali Baba",
+      "Ibrahim Idris",
+      "Mohammed Adamu"
+    ],
+    "answer": "Kayode Egbetokun"
+  }
+]
